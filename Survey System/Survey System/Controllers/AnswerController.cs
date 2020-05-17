@@ -54,7 +54,7 @@ namespace Survey_System.Controllers
 
             }
             result = (yes / (yes + no)) * 100;
-            if (result > 79)
+            if (result > 75)
             {
                 answer.IsComplete = true;
             }

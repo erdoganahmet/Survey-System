@@ -8,7 +8,7 @@
         <EntityTypeShape EntityType="SurveyModel.Answer" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="SurveyModel.AnswerLine" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
         <EntityTypeShape EntityType="SurveyModel.Question" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
-        <EntityTypeShape EntityType="SurveyModel.Person" Width="1.5" PointX="3.375" PointY="3.75" />
+        <EntityTypeShape EntityType="SurveyModel.Person" Width="1.5" PointX="7" PointY="1.25" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
